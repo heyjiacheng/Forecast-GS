@@ -1,4 +1,11 @@
-## Predictive Gaussian Splat (PGS) for End-to-End Robot Manipulation
+## Forecast-aware Gaussian Splatting for End-to-End Robot Manipulation
+
+## Forecast Gaussian Splatting
+![gif1](media/action_animation.gif)
+
+## Real Action
+![gif2](media/box_cutter_real.gif)
+
 
 ## Installation with single line
 ```bash
