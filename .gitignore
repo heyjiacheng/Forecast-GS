@@ -18,35 +18,34 @@
 
 __pycache__/
 
-pogs/sample_data/*
+src/pogs/sample_data/*
 
-pogs/configs/__pycache__/*
-pogs/data/__pycache__/*
-pogs/data/utils/__pycache__/*
-pogs/encoders/__pycache__/*
+src/pogs/configs/__pycache__/*
+src/pogs/data/__pycache__/*
+src/pogs/data/utils/__pycache__/*
+src/pogs/encoders/__pycache__/*
 
-pogs/scripts/outputs/*
+src/pogs/scripts/outputs/*
 
-pogs/ur5_interface/ur5_interface/data/*
-pogs/ur5_interface/ur5_interface/scripts/outputs/*
+src/pogs/ur5_interface/ur5_interface/data/*
+src/pogs/ur5_interface/ur5_interface/scripts/outputs/*
 outputs/*
 
-pogs/tracking/__pycache__/*
-pogs/ur5_interface/ur5_interface/outputs/*
-pogs/ur5_interface/ur5_interface/scripts/results/*
+src/pogs/tracking/__pycache__/*
+src/pogs/ur5_interface/ur5_interface/outputs/*
+src/pogs/ur5_interface/ur5_interface/scripts/results/*
 
 data/*
-media/POGS.mp4
 outputs/*
 vlm_query/*
-pogs/tracking/models/
+src/pogs/tracking/models/
 *.mp4
 *.ipynb
 .vscode/
-pogs/data/utils/datasets/
-pogs/pogs/grasping/results
-pogs/results
-pogs/robot_description
+src/pogs/data/utils/datasets/
+src/pogs/pogs/grasping/results
+src/pogs/results
+src/pogs/robot_description
 # pixi environments
 .pixi
 *.egg-info
