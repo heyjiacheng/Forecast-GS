@@ -1,6 +1,6 @@
 # Forecast-aware Gaussian Splatting for End-to-End Robot Manipulation
 
-[![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://python.org)
+[![Python](https://img.shields.io/badge/python-3.10-blue.svg)](https://python.org)
 <!-- [![Research](https://img.shields.io/badge/research-ICRA%202025-red.svg)](https://icra2025.org/) -->
 
 > An approach combining Gaussian Splatting with robotic manipulation.
